@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hello World! I'm Lakshmoji Rao Yalamati 💻</h1>
+<p align="center">DevOps 10+Yr Exp</p>
 
-<!--
-**lakshmojizelar/lakshmojizelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 About Me</h2>
 
-Here are some ideas to get you started:
+- 📍 Hyderabad, Telangana, India
+- 🏢 Zelarsoft
+- 🌱 Always learning and exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🛠️ Technologies & Tools</h2>
+
+- AWS
+- Azure
+- DevOps
+
+<h2>🚀 Featured Projects</h2>
+
+### [GithubProfile]()
+Generate file 
+
+<h2>📫 Let's Connect!</h2>
+
+- []()
