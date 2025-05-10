@@ -1,23 +1,19 @@
-<h1 align="center">Hello World! I'm Zelarsoft 💻</h1>
-<p align="center"></p>
+<h1 align="center">Hi 👋, I'm Zelarsoft</h1>
+<h3 align="center">A passionate data scientist</h3>
 
-<h2>👨‍💻 About Me</h2>
 
-- 📍 
-- 🏢 
-- 🌱 Always learning and exploring new technologies
 
-<h2>🛠️ Technologies & Tools</h2>
+- 🔭 I'm currently working at ****
+- 📫 How to reach me: **[email protected]**
 
+<h3 align="left">Connect with Me:</h3>
+
+
+<h3 align="left">Languages and Tools:</h3>
 c#
 <img src="https://media3.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="40" height="40" alt="aws"/> aws
 ai
 <img src="https://media3.giphy.com/media/JO7XJ5SSQLVHjVKSws/giphy.gif" width="40" height="40" alt="ios"/> ios
 
-<h2>🚀 Featured Projects</h2>
-
-
-
-<h2>📫 Let's Connect!</h2>
-
+## Recent Projects
 
